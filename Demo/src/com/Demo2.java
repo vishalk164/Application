@@ -6,6 +6,8 @@ public class Demo2 {
 		
 		System.out.println("My secound code for git");
 		System.out.println("------------------------");
+		System.out.println("Update");
+		System.out.println("Second update");
 	}
 
 }
