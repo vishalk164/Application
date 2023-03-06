@@ -8,7 +8,7 @@ public class Demo2 {
 		System.out.println("------------------------");
 		System.out.println("Update");
 		System.out.println("Second update");
-		System.out.println("Rushi update");
+		
 	}
 
 }
